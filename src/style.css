@@ -127,4 +127,8 @@ p {
     max-width: 250px;
   }
 
+  .email-link{
+    font-size: 22px;
+    text-align: center;
+  }
 }
